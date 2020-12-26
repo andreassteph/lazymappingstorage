@@ -2,13 +2,14 @@ asdf
 
 
 #Usage
-´´´python
+
+```python
 class User(LazyStorageObject):
       id: int
       name: str
       authorized: bool = False
    pass
-´´´
+```
 #Install
 
 

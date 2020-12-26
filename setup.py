@@ -15,7 +15,7 @@ class ToxTest(TestCommand):
             tox.cmdline()
 
 setup( name='lazymappingstorage',
-       version='0.0.1',
+       version='0.0.2',
        description='A dict like storage backed by a yaml file or similar method',
        url='',
        author='Andreas Stephanides',
